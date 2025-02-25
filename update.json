@@ -1,7 +1,7 @@
 {
     "app_server_status": true,
     "app_beta_status": false,
-    "game_version": "1.0.1",
+    "game_version": "2.0.1",
     "game_url": "https://disk.yandex.ru/d/llT7guwx1_XPTA",
     "samp_list_url": "https://raw.githubusercontent.com/alfantasy/sampmobile/refs/heads/main/samp_list.json",
     "full_list_url": "https://raw.githubusercontent.com/alfantasy/sampmobile/refs/heads/main/full_list.json",
