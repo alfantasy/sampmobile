@@ -3,7 +3,7 @@
     "app_beta_status": false,
     "game_version": "1.0.3",
     "game_url": "https://github.com/alfantasy/sampmobile/releases/download/beta-release/app-game-release.apk",
-    "samp_list_url": "https://raw.githubusercontent.com/alfantasy/sampmobile/refs/heads/main/samp_list.json",
+    "samp_list_url": "https://raw.githubusercontent.com/alfantasy/sampmobile/refs/heads/main/new_samp_list.json",
     "full_list_url": "https://raw.githubusercontent.com/alfantasy/sampmobile/refs/heads/main/full_list.json",
-    "lite_list_url": "https://raw.githubusercontent.com/alfantasy/sampmobile/refs/heads/main/lite_list.json"
+    "lite_list_url": "https://raw.githubusercontent.com/alfantasy/sampmobile/refs/heads/main/new_lite_list.json"
 }
